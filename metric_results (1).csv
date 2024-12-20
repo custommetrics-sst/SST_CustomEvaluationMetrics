@@ -1,0 +1,34 @@
+video,Sematic_Similarity_Score,Object_Detection_score,temporal_consistency_score
+a bear is walking on the grass,0.769042969,0.826285814,0.973103656
+a black bear is sitting on the grass,0.761230469,0.824475462,0.958416396
+"a black swan is swimming on the water, Van Gogh style",0.709941406,0.494559979,0.980034339
+a brown bear is sitting on the grass,0.768687855,0.839920542,0.966077286
+a camel is walking in the desert,0.86824116,0.895034235,0.978305297
+a car is moving on the snow,0.736246745,0.888811678,0.944001696
+a cat is walking on a fence,0.793688322,0.769367391,0.969148477
+a cow is walking on the snow,0.766807155,0.820081899,0.976218234
+a deer is walking in a forest,0.841796875,0.908918911,0.972124093
+a dog is munching on a burger,0.849161784,0.498858467,0.94420325
+a dog is walking on the grass,0.918636924,0.869822581,0.958643115
+a duck is eating a corn cob,0.755147298,0.592605518,0.982918589
+a fox is chewing on a sandwich,0.890299479,0.413225303,0.986532898
+a giraffe is munching on leaves,0.738057454,0.910171477,0.98368455
+a horse is walking in a meadow,0.923365543,0.767017666,0.963639233
+a jeep car is moving on the desert,0.797851563,0.896211793,0.965958492
+a jeep car is moving on the road,0.74206543,0.638443155,0.930325427
+a kitten is nibbling on a fish,0.521850586,0.494857961,0.997232041
+a lion is walking on the grass,0.893657484,0.864862232,0.960921579
+a monkey is eating a banana,0.868977865,0.404636685,0.994899656
+a panda is eating bamboo,0.884501139,0.848152456,0.988352711
+a parrot is eating a cracker,0.844462077,0.593522442,0.974021173
+a polar bear is sitting on the ground,0.695090554,0.824959378,0.970397753
+a puppy is eating an orange,0.817443848,0.811656008,0.99425823
+a rabbit is eating a pizza,0.838297526,0.402733628,0.991921624
+a rabbit is eating an orange,0.865844727,0.572100236,0.996144608
+a squirrel is eating a nut,0.827982585,0.471466607,0.981615232
+a tiger is eating a watermelon,0.929951986,0.70085228,0.988651898
+a tiger is walking on the rocks,0.832776521,0.505274508,0.972132881
+a white swan is swimming on the water,0.852919922,0.570408568,0.980989765
+a wolf is walking in the snow,0.791375411,0.88904463,0.979764634
+an elephant is walking through a field,0.909205387,0.78162673,0.970155236
+an owl is pecking at a grape,0.766682943,0.905028423,0.980488515
